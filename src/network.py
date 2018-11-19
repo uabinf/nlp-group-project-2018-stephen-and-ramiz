@@ -1,3 +1,6 @@
+import numpy as np
+from src.layers import *
+
 class FullyConnectedNet(object):
 
     def __init__(self, hidden_dims, input_dim=3*32*32, num_classes=10,

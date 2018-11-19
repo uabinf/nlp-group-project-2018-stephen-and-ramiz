@@ -6,7 +6,7 @@ import pickle as pickle
 
 import numpy as np
 
-from cs665 import optim
+from src import optim
 
 
 class Solver(object):
