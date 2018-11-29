@@ -1,0 +1,23 @@
+Intro: (Ramiz)
+ - Problem we are trying to solve
+ - Competition
+ - Dataset
+
+Our Method: Deep Neural Network (Stephen)
+ - How it works
+ - Layer explanation
+ - Regularization techinques
+   - Default regularization
+   - Normalization (Layer, Batch)
+   
+Using the data: (Ramiz)
+ - Data distribution
+ - Feature extraction
+ - Vectorization
+ 
+Results:
+ - Our results (Stephen)
+ - Other results (Ramiz)
+ - Strengths and weaknesses (Stephen)
+ 
+Conclusion (Stephen)
