@@ -18,6 +18,7 @@ Using the data: (Ramiz)
 Results:
  - Our results (Stephen)
  - Other results (Ramiz)
- - Strengths and weaknesses (Stephen)
  
 Conclusion (Stephen)
+ - Recap
+ - Strengths and weaknesses
